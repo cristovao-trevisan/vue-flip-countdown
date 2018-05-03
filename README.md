@@ -9,7 +9,8 @@ Simple board countdown component for vue.
 ## Usage
 
 ```jsx
-import Countdown from 'vue-simple-countdown'
+import Countdown from 'vue-flip-countdown'
+
 export default {
   name: 'example-app',
 

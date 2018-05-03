@@ -1,6 +1,6 @@
 {
   "name": "vue-flip-countdown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue flip countdown",
   "main": "dist/index.js",
   "devDependencies": {
